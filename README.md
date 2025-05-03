@@ -1,4 +1,4 @@
-# 🇹🇷 TürkTicaret.Net ChatBot
+# TürkTicaret.Net ChatBot
 
 Bu proje, TürkTicaret.Net üzerine geliştirilmiş yazılı ve sesli komutları anlayabilen, Python ve Selenium temelli bir chatbot uygulamasıdır. Web testleri, içerik analizi ve doğal dil işleme yetenekleri ile donatılmıştır. Hem GUI (Tkinter) hem de CLI (terminal) üzerinden kullanılabilir.
 
@@ -24,7 +24,7 @@ GUI ve CLI arayüzlerinden örnek ekran görüntüleri:
 ![GUI Görseli](gui.png) <!-- 📌 Görsel yolunu buraya yapıştır -->
 
 > Görsel 2 – CLI Terminal Görünümü  
-![CLI Görseli](./assets/cli_screenshot.png) <!-- 📌 Görsel yolunu buraya yapıştır -->
+![CLI Görseli](cli.png) <!-- 📌 Görsel yolunu buraya yapıştır -->
 
 ---
 
@@ -38,7 +38,7 @@ Proje kullanımını anlatan rehber video:
 ## 📂 Google Drive Linki
 
 Projeye ait dosyaların yedeği ve kullanıma hazır sürüm:  
-[🔗 Drive Linki Buraya Eklenmeli](https://drive.google.com/...) <!-- 📌 Buraya drive linkini yapıştır -->
+[🔗 Drive Linki Buraya Eklenmeli](https://drive.google.com/drive/folders/17sLjOEwnIZom0KfYHq1AsehKL7_eN0QN?usp=sharing) <!-- 📌 Buraya drive linkini yapıştır -->
 
 ---
 
