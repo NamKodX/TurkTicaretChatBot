@@ -21,7 +21,7 @@ Bu proje, TürkTicaret.Net üzerine geliştirilmiş yazılı ve sesli komutları
 GUI ve CLI arayüzlerinden örnek ekran görüntüleri:
 
 > Görsel 1 – GUI Sohbet Ekranı  
-![GUI Görseli](./assets/gui_screenshot.png) <!-- 📌 Görsel yolunu buraya yapıştır -->
+![GUI Görseli](gui.png) <!-- 📌 Görsel yolunu buraya yapıştır -->
 
 > Görsel 2 – CLI Terminal Görünümü  
 ![CLI Görseli](./assets/cli_screenshot.png) <!-- 📌 Görsel yolunu buraya yapıştır -->
