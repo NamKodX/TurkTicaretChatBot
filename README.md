@@ -24,7 +24,7 @@ GUI ve CLI arayüzlerinden örnek ekran görüntüleri:
 ![GUI Görseli](gui.png) <!-- 📌 Görsel yolunu buraya yapıştır -->
 
 > Görsel 2 – CLI Terminal Görünümü  
-![CLI Görseli](cli.PNG) <!-- 📌 Görsel yolunu buraya yapıştır -->
+![CLI Görseli](clint.PNG) <!-- 📌 Görsel yolunu buraya yapıştır -->
 
 ---
 
