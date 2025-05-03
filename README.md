@@ -38,6 +38,7 @@ Proje kullanımını anlatan rehber video:
 ## 📂 Google Drive Linki
 
 Projeye ait dosyaların yedeği ve kullanıma hazır sürüm:  
+- Diğer klasörlerle birlikte projenin exe dosyaları dahil tüm dosyaların bulunduğu versiyon ektedir.
 [🔗 Drive Linki Buraya Eklenmeli](https://drive.google.com/drive/folders/17sLjOEwnIZom0KfYHq1AsehKL7_eN0QN?usp=sharing) <!-- 📌 Buraya drive linkini yapıştır -->
 
 ---
