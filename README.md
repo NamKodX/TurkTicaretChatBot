@@ -31,14 +31,14 @@ GUI ve CLI arayüzlerinden örnek ekran görüntüleri:
 ## 🎥 Video Anlatım
 
 Proje kullanımını anlatan rehber video:  
-[📺 YouTube Videosu Buraya Eklenmeli](https://youtube.com/...) <!-- 📌 Buraya video linkini yapıştır -->
+[📺 Youtube kullanım videosu](https://www.youtube.com/watch?v=u5B6-7e9-Vs) <!-- 📌 Buraya video linkini yapıştır -->
 
 ---
 
 ## 📂 Google Drive Linki
 
 Projeye ait dosyaların yedeği ve kullanıma hazır sürüm:  
-[Diğer klasörlerle birlikte projenin exe dosyaları dahil tüm dosyaların bulunduğu versiyon ektedir.](https://drive.google.com/drive/folders/17sLjOEwnIZom0KfYHq1AsehKL7_eN0QN?usp=sharing) <!-- 📌 Buraya drive linkini yapıştır -->
+[Proje exe dahil tüm yapının drive adresi](https://drive.google.com/drive/folders/17sLjOEwnIZom0KfYHq1AsehKL7_eN0QN?usp=sharing) <!-- 📌 Buraya drive linkini yapıştır -->
 
 ---
 
